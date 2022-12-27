@@ -1,8 +1,4 @@
-/*Utility Tool Assessment Code 
- * Markelo Rapti 17012180
- * Lecturer: Paul Begg
- * Perth College UHI
- */
+
 package Finaltouch;
 import javax.swing.JOptionPane;
 import java.math.BigInteger;
